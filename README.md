@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=180&section=header&text=KANHIYA%20GULATI&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+UI%2FUX+Engineer;React.js+%7C+JavaScript+%7C+Tailwind+CSS+%7C+HTML5;Crafting+Pixel-Perfect+Responsive+Interfaces;BCA+Graduate+%40+COER+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Founder+%26+Lead+%40+Jigcks+Digital;Frontend+Developer+%7C+UI%2FUX+Engineer;React.js+%7C+JavaScript+%7C+Tailwind+CSS+%7C+HTML5;Crafting+Pixel-Perfect+Responsive+Interfaces" alt="Typing SVG" />
   <br />
 
   <p align="center">
-    <a href="https://coer.ac.in/"><img src="https://img.shields.io/badge/Academic-BCA%20%7C%20COER%20University-7928CA?style=flat-square&logo=graduation-cap&logoColor=white" /></a>
-    <a href="https://itclearning.com/"><img src="https://img.shields.io/badge/Diploma-ADIT%20%7C%20ITC%20Group-6366F1?style=flat-square&logo=certificate&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Location-Roorkee%2C%20India-4C1D95?style=flat-square&logo=google-maps&logoColor=white" />
+    <a href="https://github.com/Kanhiya-Gulati/jigcks-digital"><img src="https://img.shields.io/badge/Company-Founder_%26_Lead_%7C_Jigcks_Digital-7928CA?style=flat-square&logo=building&logoColor=white" /></a>
+    <a href="https://coer.ac.in/"><img src="https://img.shields.io/badge/Academic-BCA_%7C_COER_University-6366F1?style=flat-square&logo=graduation-cap&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Location-Roorkee%2C_India-4C1D95?style=flat-square&logo=google-maps&logoColor=white" />
   </p>
 
   <p align="center">
@@ -28,13 +28,13 @@
 
 ### 📌 2. About
 
-Frontend Developer and UI/UX Specialist with hands-on expertise in crafting pixel-perfect, highly responsive, and user-centric web applications using modern JavaScript ecosystems (**React.js, JavaScript ES6+, HTML5, CSS3, Tailwind CSS**). Experienced in converting complex Figma designs into clean, accessible, and high-performance frontend interfaces.
+Founder & Lead Developer at **Jigcks Digital** and UI/UX Specialist with hands-on expertise in crafting pixel-perfect, highly responsive, and user-centric web applications using modern JavaScript ecosystems (**React.js, JavaScript ES6+, HTML5, CSS3, Tailwind CSS**). Experienced in leading web agency projects and converting complex Figma designs into clean, accessible, and high-performance frontend interfaces.
 
+- 🚀 **Company Leadership**: Founder at **Jigcks Digital**, building digital agency products, client websites, and web software solutions.
 - 🎨 **UI Development**: Expert in creating dynamic, responsive layouts, micro-animations, glassmorphic themes, and interactive UI components.
 - 🖌️ **Figma to Code Translation**: Seamlessly turning designer UI mockups into production-ready, clean, modular web code.
 - ⚡ **Web Performance & UX**: Optimizing page speed, core web vitals, cross-browser compatibility, and DOM manipulation.
-- 🎯 **Product Mindset**: Passionate about accessible design (a11y), clean UI engineering, and delivering smooth user experiences under tight deadlines.
-- 💼 **Open To**: Frontend Developer / UI Developer roles, React Engineer Internships, and Creative Web Engineering Projects.
+- 💼 **Open To**: Client Partnerships, Frontend Developer / UI Developer roles, and Creative Web Engineering Projects.
 
 ---
 
@@ -69,7 +69,26 @@ Frontend Developer and UI/UX Specialist with hands-on expertise in crafting pixe
 ### 📂 5. Featured Projects
 
 <details open>
-<summary><b>⚡ 1. Jigcks Workspace — Digital Workspace Management Platform</b></summary>
+<summary><b>🏢 1. Jigcks Digital — Official Agency Website & Portfolio</b></summary>
+
+> Official web platform and portfolio for **Jigcks Digital** agency, showcasing digital web services, client case studies, modern UI layouts, and interactive agency offerings.
+
+| Parameter | Specification |
+| :--- | :--- |
+| **Stack** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
+| **Scale** | Full digital agency showcase, service portfolio, contact portal |
+| **Performance** | Sub-second rendering, high Lighthouse scores across viewports |
+| **Security** | Clean client routing, HTTPS SSL, zero external vulnerabilities |
+| **Impact** | Primary digital presence and client acquisition platform for Jigcks Digital |
+| **Repository** | [Kanhiya-Gulati/jigcks-digital](https://github.com/Kanhiya-Gulati/jigcks-digital) |
+
+Delivers an enterprise-grade agency interface with modern typography, smooth navigation, and dark luxury aesthetic.
+</details>
+
+<br />
+
+<details open>
+<summary><b>⚡ 2. Jigcks Workspace — Digital Workspace Management Platform</b></summary>
 
 > Advanced web-based digital workspace & project tracking management platform built with modern UI components and real-time collaboration features.
 
@@ -88,7 +107,7 @@ Designed to offer a seamless, modern workspace experience with intuitive navigat
 <br />
 
 <details open>
-<summary><b>💼 2. Nexlance — Premium MERN Stack Freelance Marketplace</b></summary>
+<summary><b>💼 3. Nexlance — Premium MERN Stack Freelance Marketplace</b></summary>
 
 > Full-featured Fiverr/Upwork-style freelance marketplace platform featuring Firebase authentication, automated notifications, Socket.IO chat, and dual client/freelancer dashboards.
 
@@ -107,7 +126,7 @@ Delivers a high-performance MERN stack experience with real-time chat, file shar
 <br />
 
 <details>
-<summary><b>🎂 3. Bakebliss-Cafe — Handcrafted Bakery & Café Platform</b></summary>
+<summary><b>🎂 4. Bakebliss-Cafe — Handcrafted Bakery & Café Platform</b></summary>
 
 > Modern, high-performance web application designed for a premium bakery and café with integrated ordering, interactive catalog, and table reservations.
 
@@ -126,7 +145,7 @@ The platform delivers a luxury visual experience with smooth CSS micro-animation
 <br />
 
 <details>
-<summary><b>🤝 4. Helping Bridge (NGO Alliance) — Donor Connect Platform</b></summary>
+<summary><b>🤝 5. Helping Bridge (NGO Alliance) — Donor Connect Platform</b></summary>
 
 > Dedicated web platform bridging the gap between non-profit organizations (NGOs) and donors to streamline charitable contributions and resource allocation.
 
@@ -142,28 +161,18 @@ The platform delivers a luxury visual experience with smooth CSS micro-animation
 Built with a strong focus on accessibility (a11y), clean typography, and responsive design layouts to ensure seamless donor onboarding.
 </details>
 
-<br />
-
-<details>
-<summary><b>🌐 5. Personal Portfolio Website</b></summary>
-
-> Fully responsive developer portfolio showcasing engineering projects, technical skillsets, and interactive client contact interfaces.
-
-| Parameter | Specification |
-| :--- | :--- |
-| **Stack** | React.js, Tailwind CSS, Netlify, JavaScript |
-| **Scale** | Single-page application (SPA) with smooth section routing |
-| **Performance** | 98+ Lighthouse performance score, zero layout shifts (CLS) |
-| **Security** | Content Security Policy (CSP), HTTPS SSL encryption |
-| **Impact** | Primary recruitment portal showcasing verified technical accomplishments |
-| **Repository** | [kanhiya-portfolio.netlify.app](https://kanhiya-portfolio.netlify.app/) |
-
-Features dark-mode aesthetics, responsive navigation, and direct social integration. Live demo at [kanhiya-portfolio.netlify.app](https://kanhiya-portfolio.netlify.app/).
-</details>
-
 ---
 
-### 💼 6. Experience
+### 💼 6. Experience & Leadership
+
+#### **Founder & Lead Developer** — *Jigcks Digital*
+`August 2026 – Present`
+- Founded and leading **Jigcks Digital**, building custom digital agency solutions, web applications, and client software products.
+- Architecting high-performance frontend interfaces using **React.js, Tailwind CSS, and JavaScript**.
+- Managing full product lifecycle from Figma UI design to cloud deployment on Netlify & Vercel.  
+*Skills:* `Agency Leadership` | `React.js` | `UI/UX Architecture` | `Product Engineering`
+
+<br />
 
 #### **Frontend Developer Intern** — *NetEdge Computing Solutions (Noida, UP)*
 `July 2025 – January 2026`
@@ -190,6 +199,7 @@ Features dark-mode aesthetics, responsive navigation, and direct social integrat
 
 | Recognition | Details |
 | :--- | :--- |
+| **Agency Founder** | Founded **Jigcks Digital**, launching digital workspace & web agency products. |
 | **BCA Academic Excellence** | Achieved **7.6 CGPA** in Bachelor of Computer Application at COER University. |
 | **Advance Diploma (ADIT)** | Graduated with **Grade A** from ITC Learning Group in Information Technology. |
 | **Frontend Internship** | Successfully completed 6-month intensive frontend internship at NetEdge Computing Solutions. |
@@ -241,18 +251,18 @@ Features dark-mode aesthetics, responsive navigation, and direct social integrat
 
 ```yaml
 learning:
+  - Scaling Jigcks Digital Agency Products & Web Architecture
   - Deepening React.js Architecture & Advanced Hooks
   - Advanced CSS Micro-animations & Tailwind UI Styling
-  - Web Performance Optimization & Accessibility (a11y)
 building:
+  - Jigcks Digital Web Ecosystem & Client Software
   - Pixel-perfect Responsive Web Apps & Client Portfolios
-  - Modern E-commerce & Hospitality UI Interfaces
 exploring:
   - Component Libraries & Design Systems (Figma to React)
   - Next.js & Server-Side Rendering (SSR)
 open_to:
+  - Client Partnerships & Software Contracts
   - Frontend Developer & UI Developer Roles
-  - React Engineer Opportunities
   - Creative Web Engineering Projects
 ```
 
