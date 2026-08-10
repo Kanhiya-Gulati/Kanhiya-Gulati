@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=180&section=header&text=KANHIYA%20GULATI&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+Web+Developer;React.js+%7C+Node.js+%7C+JavaScript+%7C+TypeScript;Architecting+High-Performance+Web+Products;BCA+Graduate+%40+COER+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+UI%2FUX+Engineer;React.js+%7C+JavaScript+%7C+Tailwind+CSS+%7C+HTML5;Crafting+Pixel-Perfect+Responsive+Interfaces;BCA+Graduate+%40+COER+University" alt="Typing SVG" />
   <br />
 
   <p align="center">
@@ -28,41 +28,41 @@
 
 ### 📌 2. About
 
-Software Engineer and Full-Stack Developer with hands-on expertise in building scalable, responsive, and user-centric web applications using modern JavaScript ecosystems (**React.js, Node.js, TypeScript, Express.js**). Skilled in end-to-end product development, pixel-perfect UI engineering, state management, and optimized API integration.
+Frontend Developer and UI/UX Specialist with hands-on expertise in crafting pixel-perfect, highly responsive, and user-centric web applications using modern JavaScript ecosystems (**React.js, JavaScript ES6+, HTML5, CSS3, Tailwind CSS**). Experienced in converting complex Figma designs into clean, accessible, and high-performance frontend interfaces.
 
-- ⚙️ **Software Engineering**: Strong foundation in clean code architecture, DOM manipulation, responsive layouts, and cross-browser compatibility.
-- 🤖 **AI / ML Integration**: Applying modern LLM APIs, AI tooling, and intelligent automation into web interfaces to enhance user workflows.
-- 💻 **Full-Stack Development**: Engineering reactive frontends and robust REST APIs paired with MongoDB and serverless cloud architectures.
-- 🎯 **Product Mindset**: Passionate about performance tuning, accessibility (a11y), seamless UI/UX design, and shipping high-impact products under tight deadlines.
-- 💼 **Open To**: Full-Stack Developer / Frontend Engineer roles, SDE Internships, and High-Impact Software Engineering Projects.
+- 🎨 **UI Development**: Expert in creating dynamic, responsive layouts, micro-animations, glassmorphic themes, and interactive UI components.
+- 🖌️ **Figma to Code Translation**: Seamlessly turning designer UI mockups into production-ready, clean, modular web code.
+- ⚡ **Web Performance & UX**: Optimizing page speed, core web vitals, cross-browser compatibility, and DOM manipulation.
+- 🎯 **Product Mindset**: Passionate about accessible design (a11y), clean UI engineering, and delivering smooth user experiences under tight deadlines.
+- 💼 **Open To**: Frontend Developer / UI Developer roles, React Engineer Internships, and Creative Web Engineering Projects.
 
 ---
 
 ### 🛠️ 3. Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode,figma,postman,netlify,vercel&perline=8" alt="Kanhiya Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode,figma,canva,postman,netlify,vercel&perline=8" alt="Kanhiya Tech Stack" />
 </div>
 
 <br />
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3 |
-| **Frontend** | React.js, Tailwind CSS, DOM Manipulation, Responsive Web Design |
-| **Backend & Databases** | Node.js, Express.js, RESTful APIs, MongoDB |
-| **Cloud, DevOps & Tooling** | Git, GitHub, VS Code, Netlify, Vercel, Figma, Postman, CorelDraw |
+| **Frontend & UI** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, DOM Manipulation |
+| **Design & Prototyping** | Figma, Canva, CorelDraw, Sketch, UI/UX Layouts, Pixel-Perfect Coding |
+| **Backend Basics** | Node.js, Express.js, RESTful APIs, MongoDB |
+| **DevOps & Tooling** | Git, GitHub, VS Code, Netlify, Vercel, Postman, MS Office |
 
 ---
 
-### 🤖 4. AI / ML Expertise
+### 🎨 4. UI/UX & Frontend Architecture
 
 | Domain | Proficiency | Details & Implementation |
 | :--- | :--- | :--- |
-| **LLM API Integration** | Advanced | Integrating OpenAI & Gemini REST APIs into web applications for real-time natural language interaction. |
-| **AI-Assisted UI/UX** | Intermediate | Designing AI prompt workflows, conversational UI components, and dynamic automated content generation. |
-| **Prompt Engineering** | Advanced | Structuring multi-step system prompts, JSON schema enforcement, and zero-shot/few-shot agentic workflows. |
-| **AI Tooling & Automation** | Intermediate | Utilizing AI coding assistants, automated test generation, and intelligent build/deployment pipelines. |
+| **Pixel-Perfect UI Coding** | Expert | Translating Figma & Adobe design prototypes into clean, modular, and cross-browser compliant React & HTML components. |
+| **Responsive Web Design** | Expert | Building mobile-first, fluid layouts for desktop, tablet, and mobile viewports using CSS Grid, Flexbox, and Tailwind CSS. |
+| **State & DOM Engineering** | Advanced | Managing interactive UI component states, dynamic event handlers, custom hooks, and client-side page routing. |
+| **Performance & Micro-Animations** | Advanced | Crafting CSS transitions, glassmorphic effects, optimizing load speed, and ensuring zero cumulative layout shifts (CLS). |
 
 ---
 
@@ -173,7 +173,7 @@ Features dark-mode aesthetics, responsive navigation, and direct social integrat
 | :--- | :--- |
 | **BCA Academic Excellence** | Achieved **7.6 CGPA** in Bachelor of Computer Application at COER University. |
 | **Advance Diploma (ADIT)** | Graduated with **Grade A** from ITC Learning Group in Information Technology. |
-| **Full-Stack Internship** | Successfully completed 6-month intensive frontend internship at NetEdge Computing Solutions. |
+| **Frontend Internship** | Successfully completed 6-month intensive frontend internship at NetEdge Computing Solutions. |
 
 </div>
 
@@ -244,19 +244,19 @@ Features dark-mode aesthetics, responsive navigation, and direct social integrat
 
 ```yaml
 learning:
-  - Deepening Full-Stack Architecture with Node.js & React
-  - Advanced State Management & Performance Optimization
-  - AI API Integration & Prompt Engineering
+  - Deepening React.js Architecture & Advanced Hooks
+  - Advanced CSS Micro-animations & Tailwind UI Styling
+  - Web Performance Optimization & Accessibility (a11y)
 building:
-  - Enterprise-grade Web Applications & E-commerce solutions
-  - High-performance Client Portfolios & Interactive UIs
+  - Pixel-perfect Responsive Web Apps & Client Portfolios
+  - Modern E-commerce & Hospitality UI Interfaces
 exploring:
-  - Serverless Backend Services & Edge Cloud Deployments
-  - Web Accessibility (a11y) & SEO Architecture
+  - Component Libraries & Design Systems (Figma to React)
+  - Next.js & Server-Side Rendering (SSR)
 open_to:
-  - Software Development Engineer (SDE) Roles
-  - Full-Stack / Frontend Developer Opportunities
-  - Open-Source Contributions & Collaborative Technical Projects
+  - Frontend Developer & UI Developer Roles
+  - React Engineer Opportunities
+  - Creative Web Engineering Projects
 ```
 
 ---
@@ -273,6 +273,6 @@ open_to:
 ---
 
 <div align="center">
-  <p><i>"Crafting digital experiences with precision, performance, and purpose."</i></p>
+  <p><i>"Crafting digital experiences with precision, performance, and pixel-perfect design."</i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
