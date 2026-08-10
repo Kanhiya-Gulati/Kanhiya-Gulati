@@ -184,7 +184,7 @@ Built with a strong focus on accessibility (a11y), clean typography, and respons
 
 <br />
 
-#### **Front End Developer Intern** — *Sunshine 24*7 (New Delhi)*
+#### **Front End Developer Intern** — *Sunshine 24x7 Pvt Ltd (New Delhi)*
 `May 2024 – July 2024`
 - Maintained core web assets and authored reusable UI components using **HTML5, CSS3, and JavaScript**.
 - Performed cross-browser testing and bug fixes to resolve layout inconsistencies across mobile devices.
