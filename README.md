@@ -200,28 +200,14 @@ Features dark-mode aesthetics, responsive navigation, and direct social integrat
 
 ### 📜 8. Certifications
 
-#### **Udemy & Industry Providers**
-- ![Udemy](https://img.shields.io/badge/Udemy-CSS_%26_JavaScript_Mastery-A441D7?style=flat-square&logo=udemy&logoColor=white) **CSS and Javascript Course** — Udemy
-- ![Udemy](https://img.shields.io/badge/Udemy-Web_Development_%26_Designing-A441D7?style=flat-square&logo=udemy&logoColor=white) **Web Development/Designing** — Udemy
-- ![Roadmap](https://img.shields.io/badge/Oneroadmap-Frontend_Development-000000?style=flat-square&logo=roadmapdotsh&logoColor=white) **Frontend Development** — Oneroadmap
-
-#### **Academic & Technical Training**
-- ![ITC](https://img.shields.io/badge/ITC_Group-Advance_Diploma_in_IT-0056B3?style=flat-square&logo=academic&logoColor=white) **Advance Diploma in Information Technology (Grade A)** — ITC Learning Group
+- 🎓 **Advance Diploma in Information Technology (Grade A)** — *ITC Learning Group*
+- 💻 **Frontend Development Professional** — *Oneroadmap*
+- 🌐 **CSS and JavaScript Mastery Course** — *Udemy*
+- 🎨 **Web Development & Designing** — *Udemy*
 
 ---
 
-### 💻 9. Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/Kanhiya-Gulati"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.geeksforgeeks.org/user/kanhiyagulati11/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/kanhiyagulati11"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/kanhiyagulati11"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-</p>
-
----
-
-### 📊 10. GitHub Analytics
+### 📊 9. GitHub Analytics
 
 <div align="center">
   <p>
@@ -235,7 +221,7 @@ Features dark-mode aesthetics, responsive navigation, and direct social integrat
 
 ---
 
-### 🏆 11. GitHub Trophies
+### 🏆 10. GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kanhiya-Gulati&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Kanhiya's Trophies" />
@@ -243,7 +229,7 @@ Features dark-mode aesthetics, responsive navigation, and direct social integrat
 
 ---
 
-### 📈 12. Contribution Activity
+### 📈 11. Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanhiya-Gulati&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
@@ -251,7 +237,7 @@ Features dark-mode aesthetics, responsive navigation, and direct social integrat
 
 ---
 
-### 🐍 13. Contribution Snake
+### 🐍 12. Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kanhiya-Gulati/Kanhiya-Gulati/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
@@ -259,7 +245,7 @@ Features dark-mode aesthetics, responsive navigation, and direct social integrat
 
 ---
 
-### 🎯 14. Current Focus
+### 🎯 13. Current Focus
 
 ```yaml
 learning:
@@ -280,7 +266,7 @@ open_to:
 
 ---
 
-### 📬 15. Connect
+### 📬 14. Connect
 
 <div align="center">
   <a href="mailto:kanhiyagulati11@gmail.com"><img src="https://img.shields.io/badge/Gmail-kanhiyagulati11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
