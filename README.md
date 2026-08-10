@@ -229,15 +229,7 @@ Features dark-mode aesthetics, responsive navigation, and direct social integrat
 
 ---
 
-### 📈 11. Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanhiya-Gulati&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-</div>
-
----
-
-### 🐍 12. Contribution Snake
+### 🐍 11. Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kanhiya-Gulati/Kanhiya-Gulati/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
@@ -245,7 +237,7 @@ Features dark-mode aesthetics, responsive navigation, and direct social integrat
 
 ---
 
-### 🎯 13. Current Focus
+### 🎯 12. Current Focus
 
 ```yaml
 learning:
@@ -266,7 +258,7 @@ open_to:
 
 ---
 
-### 📬 14. Connect
+### 📬 13. Connect
 
 <div align="center">
   <a href="mailto:kanhiyagulati11@gmail.com"><img src="https://img.shields.io/badge/Gmail-kanhiyagulati11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
