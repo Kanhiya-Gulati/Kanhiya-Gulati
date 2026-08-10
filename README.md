@@ -221,10 +221,10 @@ Features dark-mode aesthetics, responsive navigation, and direct social integrat
 
 ---
 
-### 🏆 10. GitHub Trophies
+### 📈 10. Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kanhiya-Gulati&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Kanhiya's Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanhiya-Gulati&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
