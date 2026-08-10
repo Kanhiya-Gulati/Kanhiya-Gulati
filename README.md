@@ -232,7 +232,7 @@ Features dark-mode aesthetics, responsive navigation, and direct social integrat
 ### 🐍 11. Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kanhiya-Gulati/Kanhiya-Gulati/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake Animation" />
 </div>
 
 ---
