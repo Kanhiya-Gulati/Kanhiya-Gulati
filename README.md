@@ -41,7 +41,7 @@ Frontend Developer and UI/UX Specialist with hands-on expertise in crafting pixe
 ### 🛠️ 3. Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode,figma,postman,netlify,vercel&perline=8" alt="Kanhiya Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode,figma,postman,netlify,vercel&perline=5" alt="Kanhiya Tech Stack" />
 </div>
 
 <br />
