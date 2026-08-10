@@ -5,16 +5,16 @@
   <br />
 
   <p align="center">
-    <a href="https://github.com/Kanhiya-Gulati/jigcks-digital"><img src="https://img.shields.io/badge/Company-Founder_%26_Lead_%7C_Jigcks_Digital-7928CA?style=flat-square&logo=building&logoColor=white" /></a>
+    <a href="https://jigcksdigital.web.app/"><img src="https://img.shields.io/badge/Company-Founder_%26_Lead_%7C_Jigcks_Digital-7928CA?style=flat-square&logo=building&logoColor=white" /></a>
     <a href="https://coer.ac.in/"><img src="https://img.shields.io/badge/Academic-BCA_%7C_COER_University-6366F1?style=flat-square&logo=graduation-cap&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Location-Roorkee%2C_India-4C1D95?style=flat-square&logo=google-maps&logoColor=white" />
   </p>
 
   <p align="center">
+    <a href="https://jigcksdigital.web.app/"><img src="https://img.shields.io/badge/Agency-jigcksdigital.web.app-00C7B7?style=for-the-badge&logo=firebase&logoColor=white" /></a>
     <a href="https://kanhiya-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/kanhiya-gulati-1a793a29a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:kanhiyagulati11@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/Kanhiya-Gulati"><img src="https://img.shields.io/badge/GitHub-Kanhiya--Gulati-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
   <p align="center">
@@ -28,9 +28,9 @@
 
 ### 📌 2. About
 
-Founder & Lead Developer at **Jigcks Digital** and UI/UX Specialist with hands-on expertise in crafting pixel-perfect, highly responsive, and user-centric web applications using modern JavaScript ecosystems (**React.js, JavaScript ES6+, HTML5, CSS3, Tailwind CSS**). Experienced in leading web agency projects and converting complex Figma designs into clean, accessible, and high-performance frontend interfaces.
+Founder & Lead Developer at [Jigcks Digital](https://jigcksdigital.web.app/) and UI/UX Specialist with hands-on expertise in crafting pixel-perfect, highly responsive, and user-centric web applications using modern JavaScript ecosystems (**React.js, JavaScript ES6+, HTML5, CSS3, Tailwind CSS**). Experienced in leading web agency projects and converting complex Figma designs into clean, accessible, and high-performance frontend interfaces.
 
-- 🚀 **Company Leadership**: Founder at **Jigcks Digital**, building digital agency products, client websites, and web software solutions.
+- 🚀 **Company Leadership**: Founder at [Jigcks Digital](https://jigcksdigital.web.app/), building digital agency products, client websites, and web software solutions.
 - 🎨 **UI Development**: Expert in creating dynamic, responsive layouts, micro-animations, glassmorphic themes, and interactive UI components.
 - 🖌️ **Figma to Code Translation**: Seamlessly turning designer UI mockups into production-ready, clean, modular web code.
 - ⚡ **Web Performance & UX**: Optimizing page speed, core web vitals, cross-browser compatibility, and DOM manipulation.
@@ -75,12 +75,12 @@ Founder & Lead Developer at **Jigcks Digital** and UI/UX Specialist with hands-o
 
 | Parameter | Specification |
 | :--- | :--- |
-| **Stack** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
+| **Stack** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Firebase |
 | **Scale** | Full digital agency showcase, service portfolio, contact portal |
 | **Performance** | Sub-second rendering, high Lighthouse scores across viewports |
 | **Security** | Clean client routing, HTTPS SSL, zero external vulnerabilities |
 | **Impact** | Primary digital presence and client acquisition platform for Jigcks Digital |
-| **Repository** | [Kanhiya-Gulati/jigcks-digital](https://github.com/Kanhiya-Gulati/jigcks-digital) |
+| **Live Demo** | [jigcksdigital.web.app](https://jigcksdigital.web.app/) |
 
 Delivers an enterprise-grade agency interface with modern typography, smooth navigation, and dark luxury aesthetic.
 </details>
@@ -167,9 +167,9 @@ Built with a strong focus on accessibility (a11y), clean typography, and respons
 
 #### **Founder & Lead Developer** — *Jigcks Digital*
 `August 2026 – Present`
-- Founded and leading **Jigcks Digital**, building custom digital agency solutions, web applications, and client software products.
+- Founded and leading **[Jigcks Digital](https://jigcksdigital.web.app/)**, building custom digital agency solutions, web applications, and client software products.
 - Architecting high-performance frontend interfaces using **React.js, Tailwind CSS, and JavaScript**.
-- Managing full product lifecycle from Figma UI design to cloud deployment on Netlify & Vercel.  
+- Managing full product lifecycle from Figma UI design to cloud deployment on Netlify & Firebase.  
 *Skills:* `Agency Leadership` | `React.js` | `UI/UX Architecture` | `Product Engineering`
 
 <br />
@@ -199,7 +199,7 @@ Built with a strong focus on accessibility (a11y), clean typography, and respons
 
 | Recognition | Details |
 | :--- | :--- |
-| **Agency Founder** | Founded **Jigcks Digital**, launching digital workspace & web agency products. |
+| **Agency Founder** | Founded **[Jigcks Digital](https://jigcksdigital.web.app/)**, launching digital workspace & web agency products. |
 | **BCA Academic Excellence** | Achieved **7.6 CGPA** in Bachelor of Computer Application at COER University. |
 | **Advance Diploma (ADIT)** | Graduated with **Grade A** from ITC Learning Group in Information Technology. |
 | **Frontend Internship** | Successfully completed 6-month intensive frontend internship at NetEdge Computing Solutions. |
@@ -271,9 +271,9 @@ open_to:
 ### 📬 13. Connect
 
 <div align="center">
+  <a href="https://jigcksdigital.web.app/"><img src="https://img.shields.io/badge/Agency-jigcksdigital.web.app-00C7B7?style=for-the-badge&logo=firebase&logoColor=white" /></a>
   <a href="mailto:kanhiyagulati11@gmail.com"><img src="https://img.shields.io/badge/Gmail-kanhiyagulati11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kanhiya-gulati-1a793a29a/"><img src="https://img.shields.io/badge/LinkedIn-Kanhiya_Gulati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Kanhiya-Gulati"><img src="https://img.shields.io/badge/GitHub-Kanhiya--Gulati-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://kanhiya-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-kanhiya--portfolio.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </div>
 
