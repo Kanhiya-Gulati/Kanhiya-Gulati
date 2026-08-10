@@ -68,8 +68,46 @@ Frontend Developer and UI/UX Specialist with hands-on expertise in crafting pixe
 
 ### 📂 5. Featured Projects
 
+<details open>
+<summary><b>⚡ 1. Jigcks Workspace — Digital Workspace Management Platform</b></summary>
+
+> Advanced web-based digital workspace & project tracking management platform built with modern UI components and real-time collaboration features.
+
+| Parameter | Specification |
+| :--- | :--- |
+| **Stack** | React.js, JavaScript (ES6+), Tailwind CSS, Netlify |
+| **Scale** | Multi-workspace dashboard, task tracking, interactive boards |
+| **Performance** | Optimized SPA state management, 98+ Lighthouse performance score |
+| **Security** | Protected client routing, secure API data handling |
+| **Impact** | Streamlined project management workflows and task organization |
+| **Repository** | [Kanhiya-Gulati/jigcks-workspace](https://github.com/Kanhiya-Gulati/jigcks-workspace) |
+
+Designed to offer a seamless, modern workspace experience with intuitive navigation, dark-mode aesthetics, and fast load speeds. Live demo deployed at [jigcks-workspace.netlify.app](https://jigcks-workspace.netlify.app/).
+</details>
+
+<br />
+
+<details open>
+<summary><b>💼 2. Nexlance — Premium MERN Stack Freelance Marketplace</b></summary>
+
+> Full-featured Fiverr/Upwork-style freelance marketplace platform featuring Firebase authentication, automated notifications, Socket.IO chat, and dual client/freelancer dashboards.
+
+| Parameter | Specification |
+| :--- | :--- |
+| **Stack** | React.js, Node.js, Express.js, MongoDB, Socket.IO, Firebase |
+| **Scale** | Dual role dashboards (Client/Freelancer), gig listings, real-time messaging |
+| **Performance** | Real-time WebSockets communication, optimized database indexing |
+| **Security** | JWT Authentication, Firebase Google Auth, File Upload sanitization |
+| **Impact** | Enterprise-grade marketplace solution for hiring and gig management |
+| **Repository** | [Kanhiya-Gulati/Nexlance](https://github.com/Kanhiya-Gulati/Nexlance) |
+
+Delivers a high-performance MERN stack experience with real-time chat, file sharing, proposal management, and responsive UI components. Live demo deployed at [nexlance1.netlify.app](https://nexlance1.netlify.app/).
+</details>
+
+<br />
+
 <details>
-<summary><b>🎂 Bakebliss-Cafe — Handcrafted Bakery & Café Platform</b></summary>
+<summary><b>🎂 3. Bakebliss-Cafe — Handcrafted Bakery & Café Platform</b></summary>
 
 > Modern, high-performance web application designed for a premium bakery and café with integrated ordering, interactive catalog, and table reservations.
 
@@ -88,7 +126,7 @@ The platform delivers a luxury visual experience with smooth CSS micro-animation
 <br />
 
 <details>
-<summary><b>🤝 Helping Bridge (NGO Alliance) — Donor Connect Platform</b></summary>
+<summary><b>🤝 4. Helping Bridge (NGO Alliance) — Donor Connect Platform</b></summary>
 
 > Dedicated web platform bridging the gap between non-profit organizations (NGOs) and donors to streamline charitable contributions and resource allocation.
 
@@ -107,26 +145,7 @@ Built with a strong focus on accessibility (a11y), clean typography, and respons
 <br />
 
 <details>
-<summary><b>🍽️ Restaurant Management System</b></summary>
-
-> Comprehensive digital ordering and table booking web system with Google Maps integration and dynamic Google Sheets database sync.
-
-| Parameter | Specification |
-| :--- | :--- |
-| **Stack** | JavaScript, HTML5, CSS3, Google Sheets API, Google Maps SDK |
-| **Scale** | Real-time reservation logging and location tracking |
-| **Performance** | Optimized DOM rendering for instantaneous menu search & filtering |
-| **Security** | API key protection, validated booking form submissions |
-| **Impact** | Reduced booking overhead and improved customer response rates |
-| **Repository** | [Kanhiya-Gulati/Restaurant-Management](https://github.com/Kanhiya-Gulati) |
-
-Designed to streamline front-desk operations for hospitality businesses, providing real-time data persistence without heavy server dependencies.
-</details>
-
-<br />
-
-<details>
-<summary><b>🌐 Personal Portfolio Website</b></summary>
+<summary><b>🌐 5. Personal Portfolio Website</b></summary>
 
 > Fully responsive developer portfolio showcasing engineering projects, technical skillsets, and interactive client contact interfaces.
 
